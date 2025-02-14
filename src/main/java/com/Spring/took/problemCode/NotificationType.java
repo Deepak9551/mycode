@@ -1,4 +1,4 @@
-package com.Spring.took.notification;
+package com.Spring.took.problemCode;
 
 public enum NotificationType {
     SMS,
