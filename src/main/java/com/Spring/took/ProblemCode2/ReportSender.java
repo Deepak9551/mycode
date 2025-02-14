@@ -1,4 +1,4 @@
-package com.Spring.took.problemCode;
+package com.Spring.took.ProblemCode2;
 
 public class ReportSender {
     public void SendReport(String s){
