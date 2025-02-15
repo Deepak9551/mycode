@@ -1,6 +1,7 @@
 package com.Spring.took.CreditCard.problemCode;
 
-public class Rupay extends CreditCard {
+public class Rupay extends CreditCard
+{
     @Override
     public void tapandpay() {
         System.out.println("Tap and pay of RU_PAY");
@@ -19,5 +20,10 @@ public class Rupay extends CreditCard {
     @Override
     public void mandatePayments() {
         System.out.println("mandatePayments of RU_PAY");
+    }
+
+    @Override
+    public void InternationalPayment() {
+
     }
 }

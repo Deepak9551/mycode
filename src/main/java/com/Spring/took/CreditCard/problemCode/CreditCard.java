@@ -13,6 +13,8 @@ public abstract class CreditCard {
 
     public abstract void mandatePayments();
 
+    public abstract void InternationalPayment();
+
     public void setCcNumber(String ccNumber) {
         this.ccNumber = ccNumber;
     }

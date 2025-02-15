@@ -20,4 +20,9 @@ public class VisaCard extends CreditCard {
     public void mandatePayments() {
         System.out.println("Mandate Payment of VISA");
     }
+
+    @Override
+    public void InternationalPayment() {
+
+    }
 }
