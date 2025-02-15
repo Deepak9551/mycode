@@ -23,6 +23,6 @@ public class VisaCard extends CreditCard {
 
     @Override
     public void InternationalPayment() {
-
+        System.out.println("Visa international");
     }
 }
